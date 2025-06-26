@@ -21,7 +21,7 @@ function Cocktails() {
             x: 100,
             y: 100
         })
-    }, [])
+    })
   return (
     <section id="cocktails" className="noisy">
       <img
