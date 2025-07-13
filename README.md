@@ -67,4 +67,4 @@ This is a personal portfolio project. Feedback is welcome! Open an issue or subm
 Licensed under the [MIT License](LICENSE).
 
 ## Contact
-Created by [Ali Reza Azdast](https://github.com/AliRezaAzdast). Connect via GitHub.
+Created by [Ali Reza Azdast](https://github.com/AliRezaAzdast). Connect via GitHub, Email:azdast47@gmail.com or WhatsApp & Telegram : +989332655478.
