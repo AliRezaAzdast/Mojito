@@ -1,60 +1,70 @@
-Mojito - Front-End Portfolio Showcase
-Overview
-Mojito is a dynamic and visually engaging web application that demonstrates advanced front-end development skills. Built with React, Tailwind CSS, and GSAP (GreenSock Animation Platform), this project showcases smooth animations, responsive design, and modern UI/UX principles. It serves as a portfolio piece to highlight expertise in creating interactive and performant web experiences.
-Features
+# Mojito: Front-End Portfolio Showcase
 
-Smooth Animations: Powered by GSAP for fluid, eye-catching transitions and effects.
-Responsive Design: Crafted with Tailwind CSS to ensure a seamless experience across all devices.
-Component-Based Architecture: Built with React for modular, reusable, and maintainable code.
-Modern UI/UX: Clean, intuitive, and visually appealing design to engage users.
-Performance Optimized: Lightweight and fast, ensuring quick load times and smooth interactions.
+## Project Overview
+Mojito is a dynamic web application showcasing advanced front-end development skills. Built with **React**, **Tailwind CSS**, and **GSAP (GreenSock Animation Platform)**, it demonstrates smooth animations, responsive design, and modern UI/UX principles. This project serves as a portfolio to highlight expertise in creating interactive and performant web experiences.
 
-Technologies Used
+## Key Features
+- **Smooth Animations**: Leverages GSAP for fluid, engaging transitions and effects.
+- **Responsive Design**: Uses Tailwind CSS for seamless display across all devices.
+- **Modular Architecture**: Built with React for reusable and maintainable components.
+- **Modern UI/UX**: Features a clean, intuitive, and visually appealing interface.
+- **Optimized Performance**: Ensures fast load times and smooth interactions.
 
-React: JavaScript library for building user interfaces.
-Tailwind CSS: Utility-first CSS framework for rapid and responsive styling.
-GSAP: Industry-standard animation library for advanced JavaScript animations.
-Vite: Next-generation frontend tooling for fast development and builds (assumed build tool, update if different).
-JavaScript (ES6+): Modern JavaScript for dynamic functionality.
+## Technologies
+- React: JavaScript library for building user interfaces.
+- Tailwind CSS: Utility-first CSS framework for rapid, responsive styling.
+- GSAP: Industry-standard library for advanced JavaScript animations.
+- Vite: Fast frontend tooling for development and builds.
+- JavaScript (ES6+): Modern JavaScript for dynamic functionality.
 
-Getting Started
-Prerequisites
+## Setup Instructions
 
-Node.js (v16 or higher)
-npm or yarn package manager
-A modern web browser (e.g., Chrome, Firefox)
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or Yarn package manager
+- Modern web browser (e.g., Chrome, Firefox)
 
-Installation
+### Installation Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AliRezaAzdast/Mojito.git
+   cd Mojito
+   ```
+2. Install dependencies:
+   ```bash
+  {KEEP} npm install
+   ```
+   Or with Yarn:
+   ```bash
+   yarn install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+   Or with Yarn:
+   ```bash
+   yarn dev
+   ```
+   Open `http://localhost:5173` (or the specified port) in your browser.
 
-Clone the Repository:git clone https://github.com/AliRezaAzdast/Mojito.git
-cd Mojito
-
-
-Install Dependencies:npm install
-
-Or, if using Yarn:yarn install
-
-
-Run the Development Server:npm run dev
-
-Or with Yarn:yarn dev
-
-Open http://localhost:5173 (or the port specified) in your browser to view the site.
-
-Build for Production
+### Build for Production
 To create a production-ready build:
+```bash
 npm run build
+```
+Output files are in the `dist` folder, ready for deployment.
 
-The output will be in the dist folder, ready for deployment.
-Usage
+## Usage
+- Explore the site to experience interactive animations and responsive layouts.
+- Review the source code in `src/` to see React components, Tailwind styles, and GSAP animations.
+- Customize or extend the project by modifying files in the `src/` directory.
 
-Navigate through the site to explore interactive animations and responsive layouts.
-Check the source code in src/ to see how React components, Tailwind styles, and GSAP animations are implemented.
-Customize or extend the project by adding new components or animations in the src/ directory.
+## Contributing
+This is a personal portfolio project. Feedback is welcome! Open an issue or submit a pull request on GitHub.
 
-Contributing
-This is a personal portfolio project, but feedback and suggestions are welcome! Feel free to open an issue or submit a pull request on GitHub.
-License
-This project is licensed under the MIT License.
-Contact
-Created by Ali Reza Azdast. Reach out via GitHub , azdast47@gmail.com or whatsapp: +0989332655478.
+## License
+Licensed under the [MIT License](LICENSE).
+
+## Contact
+Created by [Ali Reza Azdast](https://github.com/AliRezaAzdast). Connect via GitHub.
