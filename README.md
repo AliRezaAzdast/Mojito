@@ -32,7 +32,7 @@ Mojito is a dynamic web application showcasing advanced front-end development sk
    ```
 2. Install dependencies:
    ```bash
-  {KEEP} npm install
+   npm install
    ```
    Or with Yarn:
    ```bash
